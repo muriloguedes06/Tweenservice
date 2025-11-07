@@ -15,7 +15,7 @@ Just download file `tween-service.lua` and put it in your project directory. it 
 ```xml
 <meta>
     <oop>true</oop>
-    <info author='Askard' version='1.0' description='TweenService System' />
+    <info author='Murilo' version='1.0' description='TweenService System' />
 
     <script src='tween-service.lua' type='client' cache='false' />
 </meta>
@@ -113,4 +113,4 @@ end
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Askardevs/Tweenservice/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muriloguedes06/Tweenservice/blob/main/LICENSE) file for details
